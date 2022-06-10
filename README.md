@@ -1,6 +1,6 @@
 ## Ative Directory
 
-**Purple Knight**
+**Purple Knight** 
 Uncover Active Directory vulnerabilities before attackers do. 
 https://www.purple-knight.com/
 
